@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MishikaGoyal
-- 👀 I’m interested in coding and artificial intelligence. Although my main interest is in playing Basketball.
-- 🌱 I have done my basic learning in Python, HTML and MySQL.
-- ✨ At present I am learning Data Science and enhancing my skills in python.
+- 👀 I’m interested in Machine Learning and Artificial Intelligence.
+- 🌱 I have done my basic learning in Python, HTML and Machine Learning.
+- ✨ At present I am learning Data Science and enhancing my skills in Python.
 - 💞️ I’m looking to collaborate on Website developement and various other projects.
 - 📫 To reach me you can mail me on gmail id 'mishikaaagarwal@gmail.com'.
 - 🤨 To know more about me visit my site 'mishikagoyal.github.io'.
